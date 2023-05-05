@@ -13,6 +13,4 @@ This repository contains instructions/examples/tutorials for getting started wit
 
 Before we can start make sure you have met the following requirements
 
-* Make a brev account
-* [![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/brevdev/deep-learning-pytorch-huggingface&instance=g5.xlarge&diskStorage=60Gi&region=us-west-2)
-* `brev open deep-learning-pytorch-huggingface`
+* [Create a brev account](https://console.brev.dev) - brev allows you to create GPUs of all types accross different cloud providers
